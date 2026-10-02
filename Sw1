@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q1 Seatwork 1</title>
+    <style> 
+     body{ 
+         background-color: darkblue;
+
+        color: antiquewhite;
+
+     }   
+
+    .song-list  { 
+        display: flex;
+
+     }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">My Top Artist on Spotify </h1>
+    <img  src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/V.K_01.23_7_k31rwh/daniel-caesar-do-you-like-me.jpg" alt="i.mdel"   width="200px" height="200px "
+    <h style="text-align: center;">Ashton Dumar Norwill Simmonds (born April 5, 1995), known professionally as Daniel Caesar, is a Canadian singer and songwriter. </h>
+
+    <div class="song-list"> 
+        
+        
+
+        </
+        <ul> 
+
+        
+            <li>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_grsAjPtHkBOynF8FydJvDBAG9Zn5EuBwUNg_yMQEB8ty6bE4cxRJM0&s=10 " width="150px" height="150px"> 
+                <a href="https://www.youtube.com/watch?v=hKgl5-lkT8U&list=OLAK5uy_nAPZHzN6yQShALNvfh0QhwMk_Da-k49OY&index=2 ">Best Part</a>
+            </li>
+            <li>     
+                 <img src="https://i.pinimg.com/736x/e7/05/1d/e7051dc0540b79933a1f433c5bdf19d8.jpg " width="150px" height="150px" > 
+                <a href="https://www.youtube.com/watch?v=xBJ4YkQq1i8&list=OLAK5uy_nAPZHzN6yQShALNvfh0QhwMk_Da-k49OY&index=3">Hold Me Down</a>
+            </li>
+            <li> 
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYUlyDdQ0aviy0bzRz7h_x9RLYhT3INDs9bJmw0Sm0AmhLiTvtPr83imu&s=10" width="150px" height="150px" > 
+                  <a href="https://www.youtube.com/watch?v=4Erwq6RXK8w&list=OLAK5uy_nAPZHzN6yQShALNvfh0QhwMk_Da-k49OY&index=7 ">Blessed</a>
+            </li>
+
+         
+    </div>
+
+    <div class="Song-List"> 
+
+    </div>
+
+
+
+
+
+
+    <footer>
+        <p> © 2026 My Favorite Playlist | Created by [Liam Omana & Topaz]</p>
+    </footer>
+</body>
+</html>
